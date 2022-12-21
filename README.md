@@ -2,5 +2,5 @@ Passionate full-stack engineer with 6+ month’s of hands-on experience in devel
 using a wide range of front-end and back -end skills like React, MUI, HTML, C SS, JS, Node Js, mongodb, AWS, s3, redis 
 cache, express, Electron, etc.
 
-Developed 10+ project’s on website’s, mobile applications. Looking to further enhance React, Node Js, NEXT.JS, JS, mongodb, AWS, s3, 
+Developed 15+ project’s on website’s, mobile applications. Looking to further enhance React, Node Js, NEXT.JS, JS, mongodb, AWS, s3, 
 redis cache, express, Electron, etc skils as the future full stack developer. Also, I have good problems solving skills.
