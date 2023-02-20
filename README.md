@@ -1,4 +1,4 @@
-Passionate full-stack engineer with 6+ month’s of hands-on experience in developing scalable websites or application’s 
+Passionate full-stack engineer with 1+ year of hands-on experience in developing scalable websites or application’s 
 using a wide range of front-end and back -end skills like React, MUI, HTML, C SS, JS, Node Js, mongodb, AWS, s3, redis 
 cache, express, Electron, etc.
 
